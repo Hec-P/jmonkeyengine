@@ -91,8 +91,6 @@
         <package>com.jme3.util.blockparser</package>
         <package>com.jme3.util.xml</package>
         <package>jme3tools.converters</package>
-        <package>jme3tools.converters.model</package>
-        <package>jme3tools.converters.model.strip</package>
         <package>jme3tools.optimize</package>
         <package>jme3tools.savegame</package>
         <package>jme3tools.shader</package>
@@ -128,10 +126,21 @@
         <package>com.jme3.network.rmi</package>
         <package>com.jme3.network.serializing</package>
         <package>com.jme3.network.serializing.serializers</package>
+        <package>com.jme3.network.service</package>
+        <package>com.jme3.network.service.rpc</package>
+        <package>com.jme3.network.service.rpc.msg</package>
+        <package>com.jme3.network.service.serializer</package>
+        <package>com.jme3.network.util</package>
         <package>com.jme3.niftygui</package>
         <package>com.jme3.export.xml</package>
         <package>com.jme3.scene.plugins.fbx</package>
+        <package>com.jme3.scene.plugins.fbx.anim</package>
         <package>com.jme3.scene.plugins.fbx.file</package>
+        <package>com.jme3.scene.plugins.fbx.material</package>
+        <package>com.jme3.scene.plugins.fbx.mesh</package>
+        <package>com.jme3.scene.plugins.fbx.misc</package>
+        <package>com.jme3.scene.plugins.fbx.node</package>
+        <package>com.jme3.scene.plugins.fbx.obj</package>
         <package>com.jme3.scene.plugins.ogre</package>
         <package>com.jme3.scene.plugins.ogre.matext</package>
         <package>com.jme3.terrain</package>
